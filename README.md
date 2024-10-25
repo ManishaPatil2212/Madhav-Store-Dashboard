@@ -19,7 +19,7 @@ Table2: Oredrs.csv order Id, Order Date, Customer Name, City , State
 
 2.Harivansh is the Top purchasing customer has spent nearly 10K INR in the market.
 
-3. category covers almost 63% of the total market.
+3.category covers almost 63% of the total market.
    
 4.Printers are the Top Sub-Category selling across India.
 
