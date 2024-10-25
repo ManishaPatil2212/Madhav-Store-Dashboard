@@ -1,4 +1,5 @@
 # Madhav Store Data Analysis
+![Madhav Store Dashboard](https://github.com/user-attachments/assets/d3a1e468-538d-4d37-b255-63d6eca77fe2)
 ## Project Objective:
 The owner of Madhav store want us to help them create a dashboard to track and analyze their online sales across India.
 
